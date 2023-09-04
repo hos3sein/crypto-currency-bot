@@ -1,0 +1,3 @@
+# crypto-currency-bot
+i wrote this analyzor bot for analyzed based on a specifice strategy in crypto market...
+and in this strategy, the bot worked based on divergance and can work on 25 tokens
